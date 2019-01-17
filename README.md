@@ -1,0 +1,1 @@
+Code from [K. Allison *A Python Interpreter Written in Python*](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html).
